@@ -109,3 +109,4 @@ Encoder-Decoder Feed-forward + LSTM Recurrent Neural Network
 Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
 
 ![alt text](https://raw.githubusercontent.com/huseinzol05/Stock-Prediction-Comparison/master/output/stack-ensemble.png)
+# Stock-Prediction-Models-master
